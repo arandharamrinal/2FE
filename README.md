@@ -1,5 +1,5 @@
 # 2FE
-Computes energy and force for gas-phase 2-fluoroethanol
+Computes energy and force for gas-phase 2-fluoroethanol (Fitted using MP2/aug-cc-pVTZ)
 =======================================================
 This code reads Cartesian geometries from an input file and extracts energies and forces for each geometry. The input geometries should follow the atom number convention as found in the "2fe_ref.zmat" file, with each geometry written on a single line.
 
