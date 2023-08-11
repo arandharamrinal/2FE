@@ -24,3 +24,5 @@ Output Format
 -------------
 The output energies will be in units of $cm^{-1}$, and the forces will be in Hartree/Angstrom. Each line in the output file will follow this format:
 > Energy, $F_x$, $F_y$, $F_z$ of atom 1, $F_x$, $F_y$, $F_z$ of atom 2 ....
+
+Feel free to reach out if you have any questions or need further assistance.
