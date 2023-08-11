@@ -9,4 +9,5 @@ Each line in the output file contains the energy followed by forces of correspon
 > Input and output file names should be specified in "pot.param" file.
 > "pot.param" has the following structure.
 >> "inputfilename"
+>> 
 >> "outputfilename"
